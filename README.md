@@ -7,7 +7,12 @@ Best suited for Notts County career - No editing required.
 
 Remember, you'll have to update this frequently in order to keep track of your players!
 
-All information about editing with examples you can find in the "CHECK ME! Fifa 18 instructions" spreadsheet, while "Fifa 18 NC clean" is best suited to start editing for the team of your heart.
+All information about editing with examples you can find in the "CHECK ME! Fifa 18 instructions" spreadsheet, while "Fifa 18 NC clean" is best suited to start editing for the team of your heart. 
+
+For different team from League 2, you will need to edit- Emblem, text and colors in the headers in all tabs
+                                                       - Team historical and seasonal stats and rivalries on Overview page
+                                                       - Team historical results in all competitions since 1990 in Overview page
+                                                       - Color scheme of various items to match your desired team colors
 
 Ask any questions here:
 
