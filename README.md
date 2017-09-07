@@ -14,7 +14,7 @@ For different team from League 2, you will need to edit- Emblem, text and colors
                                                        - Team historical results in all competitions since 1990 in Overview page
                                                        - Color scheme of various items to match your desired team colors
 
-Ask any questions here:
+Ask any questions here: https://www.reddit.com/r/FifaCareers/comments/6ynjlz/updated_fifa_cm_spreadsheet_for_league_2_and_fifa/
 
 Moddingway link when they have Fifa 18 section. 
 
