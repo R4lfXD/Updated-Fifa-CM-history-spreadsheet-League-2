@@ -18,6 +18,8 @@ Ask any questions here:
 
 Moddingway link when they have Fifa 18 section. 
 
+For more information about myself, check out links here: twitch.tv/r4lfxd
+
 <a href="https://i.imgur.com/454hM7R.png" target="_blank">
 <img src="https://i.imgur.com/454hM7R.png" alt="Story">
 </a>
