@@ -1,4 +1,6 @@
 # Fifa-CM-history-spreadsheet--League-2-Ready
+UPDATE- added file 'Fifa 18 FGR clean' that contains spreadsheet edited for team Forest Green Rovers.
+
 Spreadsheet holding career mode data about your team and players. Updated for english League Two from original from cladcladclad(link below pictures). 
 
 Fifa 18 ready.
@@ -8,8 +10,6 @@ Best suited for Notts County career - No editing required.
 Remember, you'll have to update this frequently in order to keep track of your players!
 
 All information about updating with examples you can find in the "CHECK ME! Fifa 18 instructions" spreadsheet, while "Fifa 18 NC clean" is best suited to start editing for the team of your heart. 
-
-UPDATE- added file 'Fifa 18 FGR clean' that contains spreadsheet edited for team Forest Green Rovers.
 
 For different team from League 2, you will need to edit- Emblem, text and colors in the headers in all tabs
                                                        - Team historical and seasonal stats and rivalries on Overview page
