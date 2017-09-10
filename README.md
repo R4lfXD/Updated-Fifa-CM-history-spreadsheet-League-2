@@ -1,5 +1,6 @@
 # Updated-Fifa-CM-history-spreadsheet-League-2
-8.9.17 UPDATE- added file 'Fifa 18 FGR clean' that contains spreadsheet edited for team Forest Green Rovers.
+8.9.17 UPDATE- added file 'Fifa 18 FGR clean' that contains spreadsheet edited for team Forest Green Rovers. 
+
 10.9.17 UPDATE - huge update - added Super Cup into all statistics and season tabs, table for big transfers to story tab, table for     record holding strikers in major competitions in overview tab, end of the year statistics for all competitions in season tabs, slightly bigger injury list, unified international competition colors across tables and fixed mistakes in Club Performance History table in overview tab.
 
 Spreadsheet holding career mode data about your team and players. Updated for english League Two from original from cladcladclad(link below pictures). 
