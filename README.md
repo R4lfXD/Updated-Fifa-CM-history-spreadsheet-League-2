@@ -1,4 +1,6 @@
-17.9.17 UPDATE - important update - the way stats are handled remade - you can now 
+17.9.17 UPDATE - important update* - the way stats are handled remade - you can now swap players to different rows to reorder them AS LONG AS YOU COPY ALL THEIR STATS with them, for example to match your current starting XI. That means you dont need to retype your old players, who are not in your club anymore, on next season tabs. All data are now searched based on players name, so only key thing is to keep their name and their stats in the same row. 
+Other changes- added player OVR for start and end of the season, Data Totals tab now searches first and last OVR of said player and shows you their total improvment, added % for tackes and crosses. 
+*Only in file 'Fifa 18 NC V2', FGR file update at later date.
 
 10.9.17 UPDATE - huge update - added Super Cup into all statistics and season tabs, table for big transfers to story tab, record holding strikers in major competitions in overview tab, end of the year statistics for all competitions in season tabs, correct kit pictures in FGR file, updated some cup pictures, slightly bigger injury list, unified international competition colors across tables, fixed mistakes in Club Performance History table in overview tab.
 
